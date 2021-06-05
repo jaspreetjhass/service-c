@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-C
+server:
+  port: 8082
